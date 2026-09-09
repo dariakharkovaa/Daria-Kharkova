@@ -105,6 +105,7 @@ Rather than generating the entire product at once, each stage was reviewed and r
 The final decisions were guided by the original user stories, usability, visual consistency, and product scope.
 
 Loom video : https://www.loom.com/share/420f85931740434fae2f0c68a8a67a4c
+Google drive : https://drive.google.com/file/d/1X1WGvcx3Cnv7AS_pynjbZul7edezdZCR/view?usp=sharing
 
 Thanks for watching!
 
